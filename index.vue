@@ -1,3 +1,3 @@
 <template>
-	<div>模版一</div>
+	<div>模版二</div>
 </template>
